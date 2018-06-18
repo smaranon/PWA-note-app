@@ -28,7 +28,7 @@ Realtime server using Firebase, use to store all the information from the PWA
 <p align="center">
   <img src="images/firebaseRealtimeData.PNG" height="550">
 </p>
-![alt text](images/firebaseRealtimeData.PNG "Realtime server using Firebase, use to store all the information from the PWA")
+<!--![alt text](images/firebaseRealtimeData.PNG "Realtime server using Firebase, use to store all the information from the PWA")-->
 
 ## Future Additions
 I consider this project a good start to explore and learn more about PWAs. I will be playing around with this app for a while since I have a few ideas on how to improve it. I would like to add a feature that allows each user to same their own app theme. Another feature that allows the user to upload a picture with their notes and maybe edit that picture. I have also an idea of adding a timestamp of the last edit, it could be important if the user decides to use the app as a journal. There many great things to be done with this app and cannot wait to make them all happen.

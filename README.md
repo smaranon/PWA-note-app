@@ -2,9 +2,10 @@
 This project focuses on a basic introduction on how to build a Progressive Web APP (PWA) which brings more reliability, effectiveness, and engagement to the user compare to a regular app. A PWA brings all the benefits of a regular app, from a full screen immersive experience to push notifications. It also does not require of a network state that is constantly online to launch the PWA or display the user’s data in a matter of seconds. 
 The use of Firebase web components allows the PWA to have a better managing infrastructure that is simple to use. It also generates all of the API keys that are needed by the PWA to add user authentication and backend database, use to store all of the user data in the firebase server. 
 Polymer library allows the usage of web components, service workers and JavaScript development. The main purpose of using this library is to allow the browser to do most of the work that other libraries usually would be doing.  Polymer is compatible with all of the major browsers making facilitating the development of PWAs.
-
-![alt text](images/note%20login.PNG "Progressive Web APP screenshot of login screen")
-![alt text](images/note%20notes.PNG "Screenshot of noted created in the PWA")
+<p align="center">
+  <img src="images/note%20login.PNG" height="500">
+  <img src="images/note%20notes.PNG" height="500">
+</p>
 
 ## Building PWA
 Using the tutorial created by Google I was able to build a Progressive Web App for notes. The PWA created in this project has the functionality to take notes on the browser and most importantly on mobile. The user capable of creating, editing, and deleting notes which sync to the user’s Google account to store the data to the server. Using this PWA facilitates the usage, accessibility and shareability of the app with others.

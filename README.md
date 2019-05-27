@@ -13,4 +13,7 @@ I consider this project a good start to explore and learn more about PWAs. I wil
 ## Conclusion
 This project was simple but served its purpose of having a good introduction to PWA, web components, polymer, service workers, and Firebase. I learned a lot about web technology that Google, and other companies have been working on for years in order to bring a better service to users when using the web and apps on their phones. I have heard of PWAs previous to this class since I watched Google I/O every year however I did not realize how useful and fast they were until this project.
 My project can be found by following this link https://sampleproject-5f50b.firebaseapp.com/. If you are on mobile you have the option to add it to your home screen and explore all the wonders of PWA for yourself.
+If you have any questions please feel free to contact me.
 
+## Issues
+I am aware of the PWA not properly displaying notes after clicking "Done".  I am working on this bug and will updte as soon as I can.
